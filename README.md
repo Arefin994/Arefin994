@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin994&label=Profile%20views&color=0e75b6&style=flat" alt="arefin994" /> </p>
 
-- 🔭 I’m currently working on **Kibo Rpc**
+- 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **Java Spring, MySQL**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arefin994?tab=repositories](https://github.com/Arefin994?tab=repositories)
 
-- 💬 Ask me about **web-dev(Front-end, back-end), and other skills I have.**
+- 💬 Ask me about **web-dev(Front-end, back-end), Machine Learning and other skills I have.**
 
 - 📫 How to reach me **arefinamin994@gmail.com**
 
