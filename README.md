@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arefin+Amin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Arefin+Amin!;" />
 </h1>
+
 <h3 align="center">A passionate undergrad student of North South University from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin994&label=Profile%20views&color=0e75b6&style=flat" alt="arefin994" /> </p>
@@ -41,10 +42,40 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,vue,express,nextjs,nodejs,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,c,cpp,cs,python,unity,photoshop,figma" />
+    <!-- First line -->
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,java" /><br>
+    <!-- Second line -->
+    <img src="https://skillicons.dev/icons?i=react,vue,express,nextjs,nodejs,mongodb,mysql,firebase" /><br>
+    <!-- Third line with additional logos -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,unity,photoshop,figma" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="pandas" alt="pandas" width="55" height="55" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="numpy" alt="numpy" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" width="55" height="55" />
 </div>
+
+
+<!--
+### Languages and Tools
+
+<div align="center">
+
+#### Languages:
+| HTML | CSS | JavaScript | Java | Python | C | C++ | C# |
+|------|-----|------------|------|--------|---|----|----|
+| <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="55" height="55" align="center"/> |
+
+#### Frameworks and Libraries:
+| React | Vue | Express | Next.js | Node.js | MongoDB | pandas | numpy | scikit-learn |
+|-------|-----|---------|---------|---------|---------|--------|-------|--------------|
+| <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="55" height="55" align="center"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="pandas" alt="pandas" width="55" height="55" align="center"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="numpy" alt="numpy" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" width="55" height="55" align="center"/> |
+
+#### Tools:
+| MySQL | Firebase | Unity | Photoshop | Figma |
+|-------|----------|-------|-----------|-------|
+| <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=unity" title="Unity" alt="Unity" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" alt="Photoshop" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="55" height="55" align="center"/> |
+
+</div>
+-->
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin994&show_icons=true&locale=en&layout=compact" alt="arefin994" /></p>
