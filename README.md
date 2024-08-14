@@ -77,10 +77,40 @@
 </div>
 -->
 
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin994&show_icons=true&locale=en&layout=compact" alt="arefin994" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arefin994&show_icons=true&locale=en" alt="arefin994" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefin994&" alt="arefin994" /></p>
+<div align="center">
+  <h2>📊 My GitHub Stats 📊</h2>
+  
+  <a href="https://github.com/Arefin994/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arefin994" />
+  </a>
+  
+  <a href="https://github.com/Arefin994/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arefin994&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  </br>  </br>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefin994&" alt="arefin994" />
+  </p>
+</div>
+
+
+
+<!-- test -->
+
+
+
+<!-- test -->
+
+<h2 align="center">✨ Featured Repositories 🚀</h2>
+<div align="center">
+  <a href="https://github.com/Arefin994/ML-With-Arefin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin994&repo=ML-With-Arefin" />
+  </a>
+  <a href="https://github.com/Arefin994/recipe-here-web">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin994&repo=recipe-here-web" />
+  </a>
+</div>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
