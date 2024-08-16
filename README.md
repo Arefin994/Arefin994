@@ -47,10 +47,7 @@
     <!-- Second line -->
     <img src="https://skillicons.dev/icons?i=react,vue,express,nextjs,nodejs,mongodb,mysql,firebase" /><br>
     <!-- Third line with additional logos -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,unity,photoshop,figma" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="pandas" alt="pandas" width="55" height="55" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="numpy" alt="numpy" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,tensorflow,unity,photoshop,figma" />
 </div>
 
 
