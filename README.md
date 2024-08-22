@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin994&label=Profile%20views&color=0e75b6&style=flat" alt="arefin994" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **Deep Learning & Neural Network**
+- 🌱 I’m currently learning **Deep Learning**
 - 👨‍💻 All of my projects are available at [https://github.com/Arefin994?tab=repositories](https://github.com/Arefin994?tab=repositories)
 - 💬 Ask me about **Web Development (Front-end, Back-end), Machine Learning, and other skills I have.**
 - 📫 How to reach me **arefinamin994@gmail.com**
