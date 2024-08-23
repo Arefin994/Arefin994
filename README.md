@@ -42,13 +42,11 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- First line -->
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,java" /><br>
-    <!-- Second line -->
-    <img src="https://skillicons.dev/icons?i=react,vue,express,nextjs,nodejs,mongodb,mysql,firebase" /><br>
-    <!-- Third line with additional logos -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,tensorflow,unity,photoshop,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,vue,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,scikitlearn,tensorflow,unity,godot,photoshop,figma" />
 </div>
+
 
 
 <!--
