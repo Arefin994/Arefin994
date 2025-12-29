@@ -72,9 +72,14 @@
 </div>
 -->
 
+
+
 <div align="center">
   <h2>📊 My GitHub Stats 📊</h2>
-  
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="Arefin994's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arefin994?cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+
+  <!--
   <a href="https://github.com/Arefin994/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arefin994" />
   </a>
@@ -86,6 +91,7 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefin994&" alt="arefin994" />
   </p>
+  -->
 </div>
 
 
