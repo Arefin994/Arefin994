@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin994&label=Profile%20views&color=0e75b6&style=flat" alt="arefin994" /> </p>
 
-- 🔭 I’m currently working on **My Research*
+- 🔭 I’m currently working on *My Research*
 - 🌱 I’m currently learning **How to live best life for the first time one earth**
 - 👨‍💻 All of my projects are available at [https://github.com/Arefin994?tab=repositories](https://github.com/Arefin994?tab=repositories)
 - 💬 Ask me about **Web Development (Front-end, Back-end), AI, Machine Learning, Research, Unity Engine and other skills I have.**
